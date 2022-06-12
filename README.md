@@ -25,7 +25,7 @@
 
 ## 📊 My Github Stats
 <div>
-  <img height="188" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedabdoelhawary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img height="185" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedabdoelhawary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdoelhawary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
  
