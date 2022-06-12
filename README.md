@@ -14,9 +14,10 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedabdoelhawary&theme=onestar" alt="ahmedabdoelhawary" /></a> </p>
  -->
-<a href="https://github.com/AhmedAbdoElhawary/flutter-clean-architecture-instagram">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ahmedabdoelhawary&theme=onestar" alt="ahmedabdoelhawary" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ahmedabdoelhawary&column=8&theme=onestar&no-frame=true"/>
 </a>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -27,10 +28,11 @@
 </p>
 
 ## 📊 My Github Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedabdoelhawary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="ahmedabdoelhawary" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdoelhawary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="ahmedabdoelhawary" /></p>
-
+<div>
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedabdoelhawary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdoelhawary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</div>
+ 
 #### Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
