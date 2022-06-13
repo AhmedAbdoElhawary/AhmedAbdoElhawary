@@ -24,7 +24,6 @@
 
 <p align="center">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmedabdoelhawary" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdoelhawary&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
 </p>
 
 ## 📊 My Github Stats
