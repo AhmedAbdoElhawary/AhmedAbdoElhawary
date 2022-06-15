@@ -11,7 +11,7 @@
 
 ## Who am I?
 
-- 🔭 I’m currently working on [flutter-clean-architecture-instagram](https://github.com/AhmedAbdoElhawary/flutter-clean-architecture-instagram)
+- 🔭 I’m currently working on [flutter-clean-architecture-instagram](https://github.com/AhmedAbdoElhawary/flutter-clean-architecture-instagram) and [custom_gallery_display](https://github.com/AhmedAbdoElhawary/custom_gallery_display)
 - 👯 I’m looking to collaborate with other developers
 - 🌱 I’m currently learning **Android native, Database**
 
