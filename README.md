@@ -6,8 +6,9 @@
  ## 🏆 Github trophies
  
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ahmedabdoelhawary&column=8&theme=onestar&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ahmedabdoelhawary&theme=onestar&no-frame=true"/>
 </a>
+
 
 ## Who am I?
 
