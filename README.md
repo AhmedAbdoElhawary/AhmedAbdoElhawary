@@ -43,7 +43,8 @@
 
 <br/>
 
-<img alt="Ahmed Abdo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AhmedAbdoElhawary&bg_color=0d1117&color=4ba1b9&line=4ba1b9&point=ffffff&area=true&hide_border=true" /></a>
+<img alt="Ahmed Abdo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AhmedAbdoElhawary&bg_color=171b21&color=4ba1b9&line=4ba1b9&point=ffffff&area=true&hide_border=true" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
