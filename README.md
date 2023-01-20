@@ -43,9 +43,7 @@
 
 <br/>
 
-<img alt="Ahmed Abdo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedabdoelhawary&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
+<img alt="Ahmed Abdo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AhmedAbdoElhawary&bg_color=0d1117&color=4ba1b9&line=4ba1b9&point=ffffff&area=true&hide_border=true" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
