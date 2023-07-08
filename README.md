@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [flutter youtube clone](https://github.com/AhmedAbdoElhawary/youtube-flutter-clone) and [flutter uber clone](https://github.com/AhmedAbdoElhawary/flutter-full-uber-clone)
 - 👯 I’m looking to collaborate with other developers
-- 🌱 I’m currently learning **Android native, Database**
+- 🌱 I’m currently learning **Android native, Nodejs**
 
 - 💬 Ask me about **Flutter**
 
