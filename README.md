@@ -39,11 +39,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdoelhawary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
  
-#### Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+#### Note: Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-
-<img alt="Ahmed Abdo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AhmedAbdoElhawary&bg_color=171b21&color=4ba1b9&line=4ba1b9&point=ffffff&area=true&hide_border=true" /></a>
+<img alt="Ahmed Abdo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAbdoElhawary&bg_color=171b21&color=4ba1b9&line=4ba1b9&point=ffffff&area=true&hide_border=true" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
