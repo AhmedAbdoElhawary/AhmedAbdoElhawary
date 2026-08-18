@@ -11,9 +11,7 @@
 
 ## Who am I?
 
-- 🔭 I’m currently working on [image_picker_plus](https://github.com/AhmedAbdoElhawary/image_picker_plus)
 - 👯 I’m looking to collaborate with other developers
-- 💬 Ask me about **Flutter**
 - 📫 How to reach me **ahmedabdoelhawari12345work@gmail.com**
 
 
