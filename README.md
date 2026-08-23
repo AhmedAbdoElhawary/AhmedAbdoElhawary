@@ -12,7 +12,7 @@
 ## Who am I?
 
 - 👯 I’m looking to collaborate with other developers
-- 📫 How to reach me **ahmedabdoelhawari12345work@gmail.com**
+- 📫 How to reach me: **elhawarydev@gmail.com**
 
 
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3>
@@ -28,13 +28,13 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmedabdoelhawary" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdoelhawary&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-## 📊 My Github Stats
+## 📊 My GitHub Stats
 <div>
   <img height="185" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedabdoelhawary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdoelhawary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
  
-#### Note: Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+#### Note: Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 
 <br/>
 <img alt="Ahmed Abdo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAbdoElhawary&bg_color=171b21&color=4ba1b9&line=4ba1b9&point=ffffff&area=true&hide_border=true" /></a>
