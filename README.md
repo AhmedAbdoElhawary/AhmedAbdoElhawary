@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdo</h1>
 <h3 align="center">A passionate mobile developer (Flutter) from Egypt</h3>
 
-<!-- <img align="center" alt="Coding" width="400" src="https://phptravels.com/assets/img/coding.gif">
-
- ## 🏆 Github trophies
- 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ahmedabdoelhawary&theme=onestar&no-frame=true"/>
-</a>
-
- -->
+<img align="center" alt="Coding" width="400" src="https://phptravels.com/assets/img/coding.gif">
 
 ## Who am I?
 
@@ -30,17 +22,13 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmedabdoelhawary" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdoelhawary&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-<!-- 
 ## 📊 My GitHub Stats
 <div>
   <img height="185" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedabdoelhawary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdoelhawary&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 
-  
-
 #### Note: Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
--->
 
 <br/>
 <img alt="Ahmed Abdo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAbdoElhawary&bg_color=171b21&color=4ba1b9&line=4ba1b9&point=ffffff&area=true&hide_border=true" /></a>
