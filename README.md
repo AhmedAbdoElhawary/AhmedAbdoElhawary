@@ -40,9 +40,3 @@
 <a href="https://www.leetcode.com/ahmedabdoelhawary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedabdoelhawary" height="30" width="40" /></a>
 </p>
 
-## Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ahmedabdoelhawary">
-</a>
-<a href="https://github.com/ahmedabdoelhawary?tab=followers"><img src="https://img.shields.io/github/followers/ahmedabdoelhawary?label=Followers&style=social" alt="GitHub Badge"></a>
-
